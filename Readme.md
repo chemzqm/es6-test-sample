@@ -4,6 +4,8 @@
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
+![iterm](https://cloud.githubusercontent.com/assets/251450/10559236/77848342-751e-11e5-8a37-83f5dabd59fd.png)
+
 using:
 
 * [babel](http://babeljs.io/)
