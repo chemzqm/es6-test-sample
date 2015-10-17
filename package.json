@@ -7,7 +7,7 @@
     "parser": "babel-eslint"
   },
   "scripts": {
-    "test": "karma start"
+    "test": "make test-coveralls"
   },
   "author": "chemzqm@gmail.com",
   "license": "MIT",
