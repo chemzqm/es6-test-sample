@@ -40,10 +40,11 @@ module.exports = function (config) {
     webpackMiddleware: {
       noInfo: true
     },
-    singleRun: false,
+    singleRun: true,
     coverageReporter: {
       dir: 'coverage/',
       reporters: [
+        {type: 'text'},
         { type: 'html', subdir: 'html' },
         { type: 'lcovonly', subdir: 'lcov' },
         { type: 'cobertura', subdir: 'cobertura' }
