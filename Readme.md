@@ -2,6 +2,8 @@
 
 [![Coverage Status](https://coveralls.io/repos/chemzqm/es6-test-sample/badge.svg?branch=master&service=github)](https://coveralls.io/github/chemzqm/es6-test-sample?branch=master)
 
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
 using:
 
 * [babel](http://babeljs.io/)
