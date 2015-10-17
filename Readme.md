@@ -6,6 +6,8 @@
 
 ![iterm](https://cloud.githubusercontent.com/assets/251450/10559236/77848342-751e-11e5-8a37-83f5dabd59fd.png)
 
+![screen shot](https://cloud.githubusercontent.com/assets/251450/10559254/f56c2166-751e-11e5-89ed-83cabd31e324.png)
+
 using:
 
 * [babel](http://babeljs.io/)
