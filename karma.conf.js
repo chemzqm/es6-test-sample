@@ -24,7 +24,10 @@ module.exports = function (config) {
           {
             test: /\.js$/,
             exclude: /node_modules/,
-            loader: 'babel-loader?optional[]=runtime'
+            loader: 'babel',
+            query: {
+              plugins: ['transform-async-to-generator']
+            }
           }
         ],
         preLoaders: [
